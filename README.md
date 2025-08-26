@@ -6,7 +6,6 @@ Each `.csv` file contains the correponding list of each year. Currently, the pap
 
 ## Covered venues
 *1. International Conference on Machine Learning (ICML)*
-- [ICML 2025](icml/icml_2025.csv): Total 3339
 - [ICML 2024](icml/icml_2024.csv): Total 2640 
 - [ICML 2023](icml/icml_2023.csv): Total 1908 
 - [ICML 2022](icml/icml_2022.csv): Total 1237
@@ -14,14 +13,12 @@ Each `.csv` file contains the correponding list of each year. Currently, the pap
 - [ICML 2020](icml/icml_2020.csv): Total 1087
 
 *2. Annual Conference on Neural Information Processing Systems (NeurIPS)*
-- [NeurIPS 2024](neurips/neurips_2024.csv): Total 4538
 - [NeurIPS 2023](neurips/neurips_2023.csv): Total 3584 
 - [NeurIPS 2022](neurips/neurips_2022.csv): Total 2911
 - [NeurIPS 2021](neurips/neurips_2021.csv): Total 2342
 - [NeurIPS 2020](neurips/neurips_2020.csv): Total 1909 
 
 *3. International Conference on Learning Representations (ICLR)*
-- [ICLR 2025](iclr/iclr_2025.csv): Total 3827
 - [ICLR 2024](iclr/iclr_2024.csv): Total 2321
 - [ICLR 2023](iclr/iclr_2023.csv): Total 1590 
 - [ICLR 2022](iclr/iclr_2022.csv): Total 1103
