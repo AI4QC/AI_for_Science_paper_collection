@@ -1,0 +1,20 @@
+Title,Conference,Type,Application,MLTech,OpenrewiewLink
+TopoLM: brain-like spatio-functional organization in a topographic language model,ICLR_2025,Oral,NeuroScience,Transformer,https://openreview.net/forum?id=aWXnKanInf
+MAP: Multi-Human-Value Alignment Palette,ICLR_2025,Oral,SocialScience,Generative_model,https://openreview.net/forum?id=NN6QHwgRrQ
+ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design,ICLR_2025,Oral,Biology,Diffusion_Model,https://openreview.net/forum?id=KSLkFYHlYg
+Proteina: Scaling Flow-based Protein Structure Generative Models,ICLR_2025,Oral,Biology,Generative_Model,https://openreview.net/forum?id=TVQLu34bdw
+Steering Protein Family Design through Profile Bayesian Flow,ICLR_2025,Oral,Biology,Generative_Model,https://openreview.net/forum?id=PSiijdQjNU
+GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation,ICLR_2025,Oral,Biology,?,https://openreview.net/forum?id=ja4rpheN2ne
+miniCTX: Neural Theorem Proving with (Long-)Contexts,ICLR_2025,Oral,Math,context-aware,https://openreview.net/forum?id=KIgaAqEFHW
+Emergence of meta-stable clustering in mean-field transformer models,ICLR_2025,Oral,Physics,transformer,https://openreview.net/forum?id=eBS3dQQ8GV
+On the Benefits of Memory for Modeling Time-Dependent PDEs,ICLR_2025,Oral,Math,Neutral_Network,https://openreview.net/forum?id=o9kqa5K3tB
+ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials,ICLR_2025,Oral,Chemistry,Neural_Network,https://openreview.net/forum?id=SBCMNc3Mq3
+PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration,ICLR_2025,Oral,Biology,Computer_Vision,https://openreview.net/forum?id=rFpZnn11gj
+A Theoretically-Principled Sparse, Connected, and Rigid Graph Representation of Molecules,ICLR_2025,Oral,Chemistry,Graph_neural_networks,https://openreview.net/forum?id=OIvg3MqWX2
+Tractable Multi-Agent Reinforcement Learning through Behavioral Economics,ICLR_2025,Oral,Social_Science,reinforcement_learning,https://openreview.net/forum?id=stUKwWBuBm
+WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct,ICLR_2025,Oral,Math,Large_Language_Model,https://openreview.net/forum?id=mMPMHWOdOy
+ProtComposer: Compositional Protein Structure Generation with 3D Ellipsoids,ICLR_2025,Oral,Biology,Diffusion_Model,https://openreview.net/forum?id=0ctvBgKFgc
+Learning stochastic dynamics from snapshots through regularized unbalanced optimal transport,ICLR_2025,Oral,Physics,?,https://openreview.net/forum?id=gQlxd3Mtru
+High-Dynamic Radar Sequence Prediction for Weather Nowcasting Using Spatiotemporal Coherent Gaussian Representation,ICLR_2025,Oral,Enviromental_Science,Computer_Vision,https://openreview.net/forum?id=Cjz9Xhm7sI
+GridMix: Exploring Spatial Modulation for Neural Fields in PDE Modeling,ICLR_2025,Oral,Math,Neural_Fields,https://openreview.net/forum?id=Fur0DtynPX
+
