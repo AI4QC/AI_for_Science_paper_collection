@@ -1,7 +1,7 @@
 Title,Conference,Type,Application,MLTech,OpenreviewLink
 A differentiable brain simulator bridging brain simulation and brain-inspired computing,ICLR_2024,Poster,Neurosciences,,https://openreview.net/forum?id=AU2gS9ut61
 Adversarial Adaptive Sampling: Unify PINN and Optimal Transport for the Approximation of PDEs,ICLR_2024,Poster,Math,Neural_Network,https://openreview.net/forum?id=7QI7tVrh2c
-Beam Enumeration: Probabilistic Explainability For Sample Efficient Self-conditioned Molecular Design,ICLR_2024,Poster,Chemistry,Reinforcement_Learning,https://openreview.net/forum?id=7UhxsmbdaQ
+Beam Enumeration: Probabilistic Explanability For Sample Efficient Self-conditioned Molecular Design,ICLR_2024,Poster,Chemistry,Reinforcement_Learning,https://openreview.net/forum?id=7UhxsmbdaQ
 BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks,ICLR_2024,Poster,Biology,,https://openreview.net/forum?id=uKB4cFNQFg
 BENO: Boundary-embedded Neural Operators for Elliptic PDEs,ICLR_2024,Poster,Physics,Neural_Operator,https://openreview.net/forum?id=ZZTkLDRmkg
 Better Neural PDE Solvers Through Data-Free Mesh Movers,ICLR_2024,Poster,Math,,https://openreview.net/forum?id=hj9ZuNimRl
