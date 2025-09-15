@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-virtual_plus_search_or_fetcher.py
+openreview_link_crawler.py
 
 High-level purpose:
     Given a CSV containing at least a column named 'title' (paper title) and
-    an optional 'virtualsite_url' (a NeurIPS / conference virtual site entry URL),
+    an 'virtualsite_url' (a NeurIPS / conference virtual site entry URL),
     attempt to resolve each paper to its OpenReview forum URL.
 
 Core workflow per row:
@@ -29,19 +29,19 @@ Important notes:
       superscripts, and non-alphanumerics for robust fuzzy matching.
 
 Example usage (basic):
-    python virtual_plus_search_or_fetcher.py \
+    python openreview_link_crawler.py \
         --input my_neurips2024.csv \
         --enable-web-search-fallback \
         --max-workers 5
 
 Resume unmatched rows only:
-    python virtual_plus_search_or_fetcher.py \
+    python openreview_link_crawler.py \
         --input my_neurips2024.csv \
         --enable-web-search-fallback \
         --resume-unmatched
 
 Use override links:
-    python virtual_plus_search_or_fetcher.py \
+    python openreview_link_crawler.py \
         --input my_neurips2024.csv \
         --override-file override_links.csv
 
