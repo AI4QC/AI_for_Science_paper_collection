@@ -95,8 +95,8 @@ Foundation Molecular Grammar: Multi-Modal Foundation Models Induce Interpretable
 "From Mechanistic Interpretability to Mechanistic Biology: Training, Evaluating, and Interpreting Sparse Autoencoders on Protein Language Models",ICML_2025,Poster,Biology,neural_network,https://openreview.net/forum?id=zdOGBRQEbz
 From Token to Rhythm: A Multi-Scale Approach for ECG-Language Pretraining,ICML_2025,Poster,Medical_Healthcare,transformer,https://openreview.net/forum?id=fUjkoGUre0
 From Uncertain to Safe: Conformal Adaptation of Diffusion Models for Safe PDE Control,ICML_2025,Poster,Physics,diffusion_model,https://openreview.net/forum?id=XGJ33p4qwt
-Fully Dynamic Embedding into $\ell_p$ Spaces,ICML_2025,Poster,,,
-Fully Dynamic Euclidean Bi-Chromatic Matching in Sublinear Update Time,ICML_2025,Poster,,,
+Fully Dynamic Embedding into $\ell_p$ Spaces,ICML_2025,Poster,Math ,,
+Fully Dynamic Euclidean Bi-Chromatic Matching in Sublinear Update Time,ICML_2025,Poster,Math ,,
 G-Adaptivity: optimised graph-based mesh relocation for finite element methods,ICML_2025,Poster,Physics,neural_network,https://openreview.net/forum?id=pyIXyl4qFx
 Galileo: Learning Global & Local Features of Many Remote Sensing Modalities,ICML_2025,Poster,Earth_Climate,transformer,https://openreview.net/forum?id=gqZO3eSZRy
 Gamma Distribution PCA-Enhanced Feature Learning for Angle-Robust SAR Target Recognition,ICML_2025,Poster,Earth_Climate,neural_network,https://openreview.net/forum?id=si1iynl5y7
@@ -111,11 +111,11 @@ Geometric Representation Condition Improves Equivariant Molecule Generation,ICML
 Geometry Informed Tokenization of Molecules for Language Model Generation,ICML_2025,Poster,Chemistry,transformer,https://openreview.net/forum?id=4umRQdvuW5
 GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing,ICML_2025,Poster,Earth_Climate,transformer,https://openreview.net/forum?id=nF8NxPUd0q
 Global Context-aware Representation Learning for Spatially Resolved Transcriptomics,ICML_2025,Poster,Biology,graph_neural_network,https://openreview.net/forum?id=jeJGH6UDOL
-Global-Local Dirichlet Processes for Clustering Grouped Data in the Presence of Group-Specific Idiosyncratic Variables,ICML_2025,Poster,,,
+Global-Local Dirichlet Processes for Clustering Grouped Data in the Presence of Group-Specific Idiosyncratic Variables,ICML_2025,Poster,Biology ,,
 Gradient-based Explanations for Deep Learning Survival Models,ICML_2025,Poster,Medical_Healthcare,neural_network,https://openreview.net/forum?id=P0wSGDoip1
 HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation,ICML_2025,Poster,Medical_Healthcare,transformer,https://openreview.net/forum?id=WbP2OwMULq
 HEAP: Hyper Extended A-PDHG Operator for Constrained High-dim PDEs,ICML_2025,Poster,Physics,neural_network,https://openreview.net/forum?id=fuE1UMH99F
-Heterogeneous Treatment Effect in Time-to-Event Outcomes: Harnessing Censored Data with Recursively Imputed Trees,ICML_2025,Poster,,,
+Heterogeneous Treatment Effect in Time-to-Event Outcomes: Harnessing Censored Data with Recursively Imputed Trees,ICML_2025,Poster,Medical_healthcare ,,
 HetSSNet: Spatial-Spectral Heterogeneous Graph Learning Network for Panchromatic and Multispectral Images Fusion,ICML_2025,Poster,Earth_Climate,graph_neural_network,https://openreview.net/forum?id=8EUR45XguK
 Hierarchical Graph Tokenization for Molecule-Language Alignment,ICML_2025,Poster,Chemistry,transformer,https://openreview.net/forum?id=wpbNczwAwV
 Holistic Physics Solver: Learning PDEs in a Unified Spectral-Physical Space,ICML_2025,Poster,Physics,transformer,https://openreview.net/forum?id=oB5a6yIAmF
