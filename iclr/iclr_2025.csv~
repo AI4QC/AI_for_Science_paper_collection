@@ -7,6 +7,7 @@ Wavelet Diffusion Neural Operator,ICLR_2025,Poster,Physics,Neural_Operator,https
 WeatherGFM: Learning a Weather Generalist Foundation Model via In-context Learning,ICLR_2025,Poster,Earth_Sciences,Transformer,https://openreview.net/forum?id=izjNI5bcOV
 ZAPBench: A Benchmark for Whole-Brain Activity Prediction in Zebrafish,ICLR_2025,Poster,Neurosciences,,https://openreview.net/forum?id=oCHsDpyawq
 Zero-shot forecasting of chaotic systems,ICLR_2025,Poster,Physics,,https://openreview.net/forum?id=TqYjhJrp9m
+Scalable Mechanistic Neural Networks,ICLR_2025,Poster,Physics,Neural_Network,https://openreview.net/forum?id=Oazgf8A24z
 Scalable Universal T-Cell Receptor Embeddings from Adaptive Immune Repertoires,ICLR_2025,Poster,Biology,Neural_Network,https://openreview.net/forum?id=wyF5vNIsO7
 Scale-aware Recognition in Satellite Images under Resource Constraints,ICLR_2025,Poster,Earth_Sciences,Transformer,https://openreview.net/forum?id=QIxFo9mFwR
 Score-based free-form architectures for high-dimensional Fokker-Planck equations,ICLR_2025,Poster,Physics,Neural_Network,https://openreview.net/forum?id=5qg6JPSgCj
@@ -27,6 +28,7 @@ SleepSMC: Ubiquitous Sleep Staging via Supervised Multimodal Coordination,ICLR_2
 Small Models are LLM Knowledge Triggers for Medical Tabular Prediction,ICLR_2025,Poster,Healthcare,Language_Model,https://openreview.net/forum?id=WoPovNkM5h
 SMI-Editor: Edit-based SMILES Language Model with Fragment-level Supervision,ICLR_2025,Poster,Chemistry,Language_Model,https://openreview.net/forum?id=M29nUGozPa
 Solving Differential Equations with Constrained Learning,ICLR_2025,Poster,Physics,Neural_Network,https://openreview.net/forum?id=5KqveQdXiZ
+Solving Inverse Problems with Model Mismatch using Untrained Neural Networks within Model-based Architectures,ICLR_2025,Poster,Physics,Neural_Network,https://openreview.net/forum?id=XHEhjDxPDl
 SOO-Bench: Benchmarks for Evaluating the Stability of Offline Black-Box Optimization,ICLR_2025,Poster,General,,https://openreview.net/forum?id=bqf0aCF3Dd
 Steering Protein Family Design through Profile Bayesian Flow,ICLR_2025,Poster,Biology,,https://openreview.net/forum?id=PSiijdQjNU
 Stiefel Flow Matching for Moment-Constrained Structure Elucidation,ICLR_2025,Poster,Chemistry,,https://openreview.net/forum?id=84WmbzikPP
@@ -126,6 +128,7 @@ Learning Distributions of Complex Fluid Simulations with Diffusion Graph Network
 Learning Equivariant Non-Local Electron Density Functionals,ICLR_2025,Poster,Materials,Geometric_Deep_Learning,https://openreview.net/forum?id=FhBT596F1X
 Learning General-purpose Biomedical Volume Representations using Randomized Synthesis,ICLR_2025,Poster,Healthcare,Representation_Learning,https://openreview.net/forum?id=xOmC5LiVuN
 Learning local equivariant representations for quantum operators,ICLR_2025,Poster,Physics,Geometric_Deep_Learning,https://openreview.net/forum?id=kpq3IIjUD3
+Learning Mask Invariant Mutual Information for Masked Image Modeling,ICLR_2025,Poster,Physics,,https://openreview.net/forum?id=NoiaAT0eec
 "Dynamic Modeling of Patients, Modalities and Tasks via Multi-modal Multi-task Mixture of Experts",ICLR_2025,Poster,Healthcare,,https://openreview.net/forum?id=NJxCpMt0sf
 E(3)-equivariant models cannot learn chirality: Field-based molecular generation,ICLR_2025,Poster,Chemistry,Geometric_Deep_Learning,https://openreview.net/forum?id=mXHTifc1Fn
 ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials,ICLR_2025,Poster,Materials,,https://openreview.net/forum?id=SBCMNc3Mq3
@@ -134,6 +137,7 @@ Effective and Efficient Time-Varying Counterfactual Prediction with State-Space 
 Efficient Biological Data Acquisition through Inference Set Design,ICLR_2025,Poster,Chemistry,,https://openreview.net/forum?id=gVkX9QMBO3
 Efficient Evolutionary Search Over Chemical Space with Large Language Models,ICLR_2025,Poster,Chemistry,Language_Model,https://openreview.net/forum?id=awWiNvQwf3
 Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts,ICLR_2025,Poster,Healthcare,,https://openreview.net/forum?id=JSB171dSUU
+Efficiently Parameterized Neural Metriplectic Systems,ICLR_2025,Poster,Physics,Neural_Network,https://openreview.net/forum?id=uL1H29dM0c
 Efficient Masked AutoEncoder for Video Object Counting and A Large-Scale Benchmark,ICLR_2025,Poster,Biology,,https://openreview.net/forum?id=sY3anJ8C68
 Efficient Neuron Segmentation in Electron Microscopy by Affinity-Guided Queries,ICLR_2025,Poster,Biology,,https://openreview.net/forum?id=Y0QqruhqIa
 E(3)-Equivariant Topological Neural Networks,ICLR_2025,Poster,Chemistry,Geometric_Deep_Learning,https://openreview.net/forum?id=Ax3uliEBVR
