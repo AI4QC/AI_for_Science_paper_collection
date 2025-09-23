@@ -1,6 +1,6 @@
 # AI for Science paper collection
 
-This is a new initiative by [AI for Science Community](https://ai4sciencecommunity.github.io/) to collect papers published in AI for Science areas and categorize them by subjects, years, venues and keywords, etc. 
+This is a new initiative by [AI for Science Community](https://ai4sciencecommunity.github.io/) to collect papers from AI conference published in AI for Science areas and categorize them by subjects, years, venues and keywords, etc. 
 
 Each `.csv` file contains the correponding list of each year. Currently, the paper list is labelled by keys of `Title`, `Conference`, `Type`, `Application`, `MLTech`, `OpenReviewLink`. One could visulalize the list directly on this GitHub repo or by `pandas`. 
 
@@ -14,14 +14,14 @@ Each `.csv` file contains the correponding list of each year. Currently, the pap
 - [ICML 2020](icml/icml_2020.csv): Total 11/1087
 
 *2. Annual Conference on Neural Information Processing Systems (NeurIPS)*
-- [NeurIPS 2024](neurips/neurips_2024.csv): Total 192/4538
+- [NeurIPS 2024](neurips/neurips_2024.csv): Total 185/4538
 - [NeurIPS 2023](neurips/neurips_2023.csv): Total 98/3584 
 - [NeurIPS 2022](neurips/neurips_2022.csv): Total 69/2911
 - [NeurIPS 2021](neurips/neurips_2021.csv): Total 37/2342
 - [NeurIPS 2020](neurips/neurips_2020.csv): Total 26/1909 
 
 *3. International Conference on Learning Representations (ICLR)*
-- [ICLR 2025](iclr/iclr_2025.csv): Total 254/3827
+- [ICLR 2025](iclr/iclr_2025.csv): Total 218/3827
 - [ICLR 2024](iclr/iclr_2024.csv): Total 69/2321
 - [ICLR 2023](iclr/iclr_2023.csv): Total 52/1590 
 - [ICLR 2022](iclr/iclr_2022.csv): Total 42/1103
